@@ -1,0 +1,65 @@
+.backclr{
+    background-color: burlywood;
+}
+.main{
+    border: 2px solid black;
+    height: 70px;
+    width:100%;
+    background-color: rgba(241, 226, 13, 0.877);
+}
+.crt{
+display: flex;gap :40px;
+padding-right: ;
+list-style-type:none;
+}
+.logo{
+    height: 30px;
+    width:30px;
+
+}
+.backimg{
+border: 2px solid black;
+height: 500px;
+width: 100%;
+}
+.imgg{
+    border:2px solid black;
+    height: 500px;
+    width: 100%;
+}
+.section{
+    border: 2px solid black;
+    height: 300px;
+    width: 100%;
+    display: flex; gap:200px;
+    
+}
+
+.teli{
+    height:200px ;
+    width: 200px;
+    border-radius: 50%;
+   
+
+}
+.tat{
+    height:200px ;
+    width: 200px;
+    border-radius: 50%;
+}
+.ghdi{
+    height:200px ;
+    width: 200px;
+    border-radius: 50%;
+}
+.footer{
+border: 2px solid black;
+height: 360px;
+width: 100%;
+display: flex;
+}
+.logor{
+    height: 30px;
+    width:30px;
+}
+
